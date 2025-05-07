@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ciclo superior DAM</title>
+    <link href="https://fpadistancia.edu.xunta.gal"/>
+    <updated>2025-05-07T10:00:00Z</updated>
+    <id>https://fpadistancia.edu.xunta.gal</id>
+
+    <entry>
+        <title>Base de datos</title>
+        <link href="https://fpadistancia.edu.xunta.gal/course/view.php?id=6706"/>
+        <id>https://fpadistancia.edu.xunta.gal/course/view.php?id=6706</id>
+        <updated>2025-05-07T10:00:00Z</updated>
+        <summary>Módulo informativo de bases de datos</summary>
+        <author>
+            <name>Jose Luis Somoza Amado</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Lenguaje de marcas</title>
+        <link href="https://fpadistancia.edu.xunta.gal/course/view.php?id=6703"/>
+        <id>https://fpadistancia.edu.xunta.gal/course/view.php?id=6703</id>
+        <updated>2025-05-07T10:00:00Z</updated>
+        <summary>Módulo informativo de lenguaje de marcas</summary>
+        <author>
+            <name>Jose Luis Somoza Amado</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Contornos del desarrollo</title>
+        <link href="https://fpadistancia.edu.xunta.gal/course/view.php?id=6705"/>
+        <id>https://fpadistancia.edu.xunta.gal/course/view.php?id=6705</id>
+        <updated>2025-05-07T10:00:00Z</updated>
+        <summary>Módulo informativo de Contornos de desarrollo</summary>
+        <author>
+            <name>Aniceto Juan Luaces Conde</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Sistemas informáticos</title>
+        <link href="https://fpadistancia.edu.xunta.gal/course/view.php?id=6702"/>
+        <id>https://fpadistancia.edu.xunta.gal/course/view.php?id=6701</id>
+        <updated>2025-05-07T10:00:00Z</updated>
+        <summary>Módulo informativo de Sistemas informáticos</summary>
+        <author>
+            <name>Rafael Vega Sanchez</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Programación</title>
+        <link href="https://fpadistancia.edu.xunta.gal/course/view.php?id=6702"/>
+        <id>https://fpadistancia.edu.xunta.gal/course/view.php?id=6702</id>
+        <updated>2025-05-07T10:00:00Z</updated>
+        <summary>Módulo informativo de programación</summary>
+        <author>
+            <name>Marcos Arias Fernandez</name>
+        </author>
+    </entry>
+
+</feed>

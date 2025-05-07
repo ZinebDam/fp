@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ciclo superior DAM</title>
+        <link>https://fpadistancia.edu.xunta.gal</link>
+        <description>Ciclo superior de desarrollo de aplicaciones multiplataforma</description>
+        <item>
+            <title>Base de datos</title>
+            <link>https://fpadistancia.edu.xunta.gal/course/view.php?id=6706</link>
+            <description>Módulo informativo de bases de datos</description>
+            <author>Jose Luis Somoza Amado</author>
+        </item>
+        <item>
+            <title>Lenguaje de marcas</title>
+            <link>https://fpadistancia.edu.xunta.gal/course/view.php?id=6703</link>
+            <description>Módulo informativo de lenguaje de marcas</description>
+            <author>Jose Luis Somoza Amado</author>
+
+        </item>
+        <item>
+            <title>Contornos del desarrollo</title>
+            <link>https://fpadistancia.edu.xunta.gal/course/view.php?id=6705</link>
+            <description>Módulo informativo de Contornos de desarrollo</description>
+            <author>Aniceto Juan Luaces Conde</author>
+        </item>
+        <item>
+            <title>Sistemas informaticos</title>
+            <link>https://fpadistancia.edu.xunta.gal/course/view.php?id=6701</link>
+            <description>Módulo informativo de Sistemas informaticos</description>
+            <author>Rafael Vega Sanchez</author>
+        </item>
+        <item>
+            <title>Programacón</title>
+            <link>https://fpadistancia.edu.xunta.gal/course/view.php?id=6702</link>
+            <description>Módulo informativo de programación</description>
+            <author>Marcos Arias Fernandez</author>
+        </item>
+    </channel>
+</rss>
